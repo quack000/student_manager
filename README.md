@@ -15,6 +15,10 @@ Mở terminal/Command Prompt trong thư mục dự án và chạy lệnh sau:
 ```bash
 pip install -r requirements.txt
 ```
+hoặc
+```bash
+python -m pip install -r requirements.txt
+```
 
 **Lưu ý:** Các thư viện chuẩn như `sqlite3`, `hashlib`, `os`, `sys`, `tkinter`, `datetime`, `json`, `csv`, `re` đã được tích hợp sẵn trong Python, bạn không cần cài đặt thêm.
 
