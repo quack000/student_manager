@@ -1,0 +1,8 @@
+# GUI Framework
+ttkbootstrap>=1.10.0
+
+# Data Visualization
+matplotlib>=3.7.0
+
+# Testing (optional - only needed for running tests)
+pytest>=7.4.0
